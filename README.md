@@ -35,6 +35,12 @@ pip install -r requirements.txt
 2. Access the web interface at http://localhost:8501
 3. Enter queries in the chat interface
 
+
+## Start the application (Online)
+
+https://capstoneprojectgenaiforcdt-swarit.streamlit.app/
+
+
 ## Example Queries
 
 1. Marketing
